@@ -22,7 +22,7 @@ def kmeans(k, epsilon=0, distance='eucledian'):
 	norm = dist_method(prototypes, prototypes_old)
 
 	iteration = 0 
-
+	iteration += 1
 
 def plot(dataset, history_centroids, belongs_to):
 
